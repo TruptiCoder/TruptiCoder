@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <h3>💫 About Me:</h3>
-🔭 I’m currently working on 100 days CSS Challenge<br>👯 I’m looking to collaborate on Fullstack Web projects<br>🤝 I’m looking for help with Mini project idea<br>🌱 I’m currently learning Fullstack Web development<br>💬 Ask me about Java, C++<br>⚡ Fun fact I can't solve rubik's cube under 2 min.
+🔭 I’m currently working on 160 days of #gfg160 Challenge<br>👯 I’m looking to collaborate on Fullstack Web projects<br>🤝 I’m looking for help for project idea<br>🌱 I’m currently learning Fullstack Web development<br>💬 Ask me about Java, DSA<br>⚡ Fun fact I can't solve rubik's cube under 1 min.
 
 
 ## 🌐 Socials:
